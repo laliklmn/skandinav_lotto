@@ -1,0 +1,6 @@
+c:\users\lalee\documents\visual studio 2017\Projects\skandinav_lotto_20170623\skandinav_lotto_20170623\bin\Debug\skandinav_lotto_20170623.exe.config
+c:\users\lalee\documents\visual studio 2017\Projects\skandinav_lotto_20170623\skandinav_lotto_20170623\bin\Debug\skandinav_lotto_20170623.exe
+c:\users\lalee\documents\visual studio 2017\Projects\skandinav_lotto_20170623\skandinav_lotto_20170623\bin\Debug\skandinav_lotto_20170623.pdb
+c:\users\lalee\documents\visual studio 2017\Projects\skandinav_lotto_20170623\skandinav_lotto_20170623\obj\Debug\skandinav_lotto_20170623.csprojResolveAssemblyReference.cache
+c:\users\lalee\documents\visual studio 2017\Projects\skandinav_lotto_20170623\skandinav_lotto_20170623\obj\Debug\skandinav_lotto_20170623.exe
+c:\users\lalee\documents\visual studio 2017\Projects\skandinav_lotto_20170623\skandinav_lotto_20170623\obj\Debug\skandinav_lotto_20170623.pdb
